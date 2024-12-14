@@ -1,0 +1,19 @@
+.box1{
+width: 100px;
+height: 100px;
+background-color: orange;
+border: black 2px solid;
+padding: 30px 30px;
+
+
+}
+.shape{
+    width:100px ;
+    height: 70px;
+    border-radius: 40%;
+    border:solid rgb(140, 92, 4) 2px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+
+}
